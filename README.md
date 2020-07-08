@@ -1,2 +1,2 @@
 # Microlepidieae_Arabidella
-Reconstructing the Microlepidieae tribe phylogenetic relationships.
+Reconstructing phylogenetic relationship of Microlepidieae tribe 
